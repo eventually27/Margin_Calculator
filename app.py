@@ -3,7 +3,7 @@ import pandas as pd
 
 # 페이지 설정
 st.set_page_config(
-    page_title="구매대행 마진율 계산기",
+    page_title="구매대행 마진율 계산기(For JM)",
     page_icon="💰",
     layout="wide"
 )
